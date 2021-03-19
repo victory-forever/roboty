@@ -1,0 +1,327 @@
+@media screen and (max-width:1199px){header{padding:27px 0 150px 0;}
+.header-circles div:first-child{margin:-220px 0 0 600px;}
+.heading_contacts-info div:last-child{position:relative;z-index:2;}
+.offer_heading{margin:15px 0 55px 0;}
+.contents-item{margin:0 0 0 0px;}
+.contents-item__first, .contents-item__second{margin:0 0 150px 0;}
+#exhibition{margin:-355px 0 0 0;}
+.robot-img-slider.slick-slider{width:1240px !important;}
+.robots_slider-arrows{margin:494px 34px 0 0;}
+.school_description{margin:0;}
+.school_description-img{margin:0 0 0 300px;}
+.school_description-content{margin:-70px auto 0 auto;}
+.school_contents-item:nth-child(1){margin:0px 0 0 0px;}
+.school_contents-item:nth-child(2){justify-content:flex-end;margin:37px 0px 0 0;}
+.school_contents-item:nth-child(3){margin:25px 0 0 80px;}
+.school_contents-item:nth-child(4){margin:25px 0 0 0px;justify-content:flex-end;}
+.school_contents-item:nth-child(5){margin:44px 0 0 0px;}
+.school_contents-item:nth-child(6){margin:25px 0 0 450px;}
+.school_contents-item:nth-child(7){margin:25px 0 0 200px;}
+.class{margin:0 auto;margin:0 auto 84px auto;}
+.class-three{margin-bottom:0;}
+.excursion_info{flex-direction:column-reverse;justify-content:unset;margin:58px 0 0 0;}
+.excursion_content{margin:-140px -50px 0 0;}
+.excursion_bg-img{margin:535px 0 0 -100px;}
+.birthday_contents{flex-direction:column-reverse;align-items:center;margin:333px 0 0 0;}
+.robot-img{margin:148px 0 0 588px;}
+.robot-img img{transform:rotate3d(0, 0, 1, 45deg);}
+.lightning img:nth-child(1){margin:190px 0 0 150px;}
+.lightning img:nth-child(6){margin:80px 0 0 450px;}
+.lightning img:nth-child(2){margin:715px 0 0 145px;}
+.lightning img:nth-child(8){margin:650px 0 0 880px;}
+.lightning img:nth-child(3){margin:1550px 0 0 250px;}
+.lightning img:nth-child(4){margin:1815px 0 0 780px;}
+.lightning img:nth-child(5), .lightning img:nth-child(7){display:none;}
+.flying-robot3{margin:750px 0 0 200px;}
+.flying-robot2{margin:820px 0 0 775px;}
+.flying-robot1{margin:1470px 0 0 165px;}
+.flying-robot4{margin:1500px 0 0 680px;}
+.round-sectors img:nth-child(2){margin:318px 0 0 628px;}
+.round-sectors img:nth-child(1){margin:946px 0 0 85px;}
+.birthday_contents-block:last-child{margin:-190px 0 170px 0;}
+.birthday_info{margin:160px auto 0 auto;}
+.tickets_block__second{float:none;margin:100px 0 0 0;}
+.tickets_block{display:flex;flex-direction:column;align-items:center;}
+.contacts_content{flex-direction:column;}
+.contacts_robot{margin:0px 0 0 -490px;}
+.contacts_info{margin:-260px 0 0 0px;}
+.map{margin:-130px 0 0 0px;}
+#contacts h2{margin:95px 0 50px 35px;}
+}
+@media screen and (max-width:991px){.heading_menu a{font-size:16px;}
+.heading_menu a:not(:last-child){margin-right:18px;}
+.header-circles div:first-child{margin:-220px 0 0 480px;}
+.header-circles div:last-child{margin:470px 0 0 -150px;}
+h1{width:498px;font-size:30px;line-height:40px;}
+.offer_heading{align-items:center;}
+.logo img{width:190px;height:auto;}
+.logo{margin-right:40px;}
+.exhibition_info-robot{display:none;}
+.exhibition_info{flex-direction:column;}
+.exhibition_info:first-child{margin:0 0 60px 0px;}
+.exhibition_info:last-child{flex-direction:column-reverse;}
+.exhibition_text__top{margin:-115px 0 0 0px;}
+.exhibition_img__bottom{margin:0 0 0 0px;}
+.exhibition_text__bottom{margin:-70px 0 0 0;}
+.exhibition_content::before{margin:300px 0 0 250px;}
+.robot-img-slide, .robot-img-slider .slick-current .robot-img-slide img{width:750px;height:440px;}
+.robot-img-slider .slick-current .robot-img-slide div, .robot-img-slide div{display:none;}
+.robot-img-slider.slick-slider{width:750px !important;box-shadow:5.736px 8.192px 55px 0 rgba(0,0,0,.26);}
+.robot-img-slider .slick-list{overflow:hidden !important;}
+.robots_sliders{margin:0 0 0 0px;}
+.robots_slider-arrows{margin:384px 0px 0 0;}
+.robot-desc-slider{margin:345px 0 0 50px;}
+#robots h2::before{margin:260px 0 0 -130px;}
+.round-sectors img:nth-child(2){margin:318px 0 0 517px;}
+.round-sectors img:nth-child(1){margin:946px 0 0 -25px;}
+.robot-img{margin:148px 0 0 43%;}
+.lightning img:nth-child(4){margin:1815px 0 0 57%;}
+.lightning img:nth-child(3){margin:1550px 0 0 16%;}
+.lightning img:nth-child(8){margin:650px 0 0 62%;}
+.lightning img:nth-child(2){margin:700px 0 0 0%;}
+.flying-robots .layer{width:1170px;}
+.flying-robot3{margin:740px 0 0 8%;}
+.flying-robot2{margin:820px 0 0 56%;}
+.flying-robot1{margin:1470px 0 0 5%;}
+.flying-robot4{margin:1500px 0 0 48%;}
+.school_contents-item:nth-child(6){margin:25px 0 0 430px;}
+.discount{margin:58px 0 88px 0px;}
+.discount_text{padding:80px 50px 0 50px;margin:0 0 0 -30px;}
+.discount_img .par{width:192px;height:160px;}
+.discount_img .par img{height:160px;}
+.benefit{margin:10px 0px 0 auto;}
+.warning{margin:-50px 290px 0 auto;}
+.contacts_content{margin:0px 0 0 0px;}
+#form-modal{width:714px;padding:32px 65px 75px 65px;}
+}
+@media screen and (max-width:767px){.container{padding-right:15px;padding-left:15px;}
+header{padding:15px 0 150px 0;}
+.heading_menu a:not(:last-child){margin-right:17px;}
+.heading_menu a{font-size:15.5px;}
+h1{width:410px;font-size:24px;line-height:30px;}
+.logo img{width:163px;}
+.offer_heading{margin:1px 0 55px 0;}
+.exhibition_info:first-child{margin:0 0 0px 0px;}
+#exhibition{padding:285px 0 230px 0;}
+#contents{padding:140px 0 254px 0;}
+.contents-item{margin:0 auto 150px auto;}
+.contents-item__fourth{margin:0 auto;}
+#contents h3{margin:60px 0 0 0;}
+#robots{padding:0 0 250px 0;}
+#robots h2{margin:80px 0 63px 0px;}
+.robot-img-slider.slick-slider, .robots_sliders, .robot-desc-slider{width:694px !important;}
+.robots_sliders{margin:0 auto;}
+.robot-img-slide, .robot-img-slide img, .robot-img-slider .slick-current .robot-img-slide img{width:694px;height:440px;}
+.robot-desc-slider{margin:345px 0 0 0px;}
+#school{padding:0 0 260px 0;}
+.school_heading{justify-content:right;margin:60px 0 0 0;}
+.school_contents-item:nth-child(6){margin:25px 0 0 340px;}
+#classes{padding:0 0 290px 0;}
+#classes h2{margin:63px 0 0 0px;}
+.classes_list{margin:60px 0 0 0;}
+#excursion{padding:0 0 230px 0;}
+#excursion h2{margin:60px 0px 0 auto;}
+.excursion_bg-img div:first-child{display:none;}
+.excursion_bg-img{margin:535px 0 0 -360px;}
+.round-sectors img{display:none;}
+.robot-img{margin:155px 0 0 42%;}
+.lightning img:nth-child(8){margin:850px 0 0 42%;}
+.flying-robot3{width:82px;height:auto;}
+.flying-robot2{width:58px;height:auto;}
+#birthday{padding:0 0 250px 0;}
+#prices{padding:0 0 220px 0;}
+#prices h2{margin:80px 0px 0 0;}
+.discount_img{display:none;}
+.discount{justify-content:center;}
+.benefit{margin:10px auto 0 auto;}
+.warning{margin:-50px 0 0 0;text-align:center;float:none;}
+#contacts h2{margin:75px 0 50px 0px;}
+.contacts_info{margin:-85px 0 0 0px;}
+.contacts_robot{margin:0px 0 0 -200px;}
+.map{width:100%;}
+#form-modal{width:670px;padding:32px 55px 75px 55px;}
+.heading_contacts-info a:active, .heading_contacts-info a:hover,
+.birthday_contacts-tel a:active, .birthday_contacts-tel a:hover,
+.contacts_info a:active, .contacts_info a:hover{color:#bed62f;}
+.heading_contacts-info a:focus, .birthday_contacts-tel a:focus,
+.contacts_info a:focus{color:#fff;}
+}
+@media screen and (max-width:723px){header{padding:0px 0 50px 0;}
+.heading_menu{display:none;}
+.heading{justify-content:flex-end;margin:20px 0 -54px 0;position:relative;z-index:2;}
+.hamburger-icon{display:block;margin:0 0 0 68px;}
+.hamburger-menu{display:block;}
+.logo{margin:-3px 0 0 0;}
+.logo img{width:87px;}
+.offer_heading{flex-direction:column;align-items:flex-start;margin:8px 0 35px 0;}
+h1{margin-top:30px;}
+.header-circles div:first-child{margin:20px 0 0 380px;width:377px;height:377px;border:50px solid #bed62f;}
+.header-circles div:last-child{margin:280px 0 0 -150px;width:206px;height:206px;border-width:30px;}
+.slick-dots li.slick-active, .slick-dots li.slick-active button{width:11px;height:11px;}
+.slick-dots li, .slick-dots li button{width:7.5px;height:7.5px;}
+.slick-dots li button{padding:1px;}
+.offer_slider-arrows, .robots_slider-arrows{width:auto;height:auto;padding:3px 0 0 3px;}
+.offer_slider-arrows{margin:-64px 0 0 0;}
+.offer_arrow, .robots_arrow{width:31px;height:31px;padding:3px 0;}
+.offer_arrow img, .robots_arrow img{width:9px;height:auto;}
+#exhibition{margin:-140px 0 0 0;padding:170px 0 220px 0;}
+#exhibition h2{margin:0 0px 0 auto;line-height:41px;font-size:35px;}
+.exhibition_img__top, .exhibition_img__bottom{width:100%;}
+.exhibition_img img{margin:0 auto;}
+.exhibition_text__top{margin:-115px auto 0 auto;padding:110px 55px 0 70px;}
+.exhibition_text{background-size:100% 100%;width:479px;height:500px;}
+.exhibition_text::before{margin:-20px 0 0 0;}
+.exhibition_text__bottom{padding:110px 53px 0 70px;margin:-100px 0 0 0;}
+.robot-desc-slide-six{height:320px;}
+.robot-img-slider.slick-slider, .robots_sliders, .robot-desc-slider{width:100% !important;height:auto;}
+.robot-img-slider{box-shadow:5.736px 8.192px 55px 0 rgba(0,0,0,.26);}
+.robot-img-slide{width:95.9% !important;height:auto;}
+.robot-img-slide img, .robot-img-slider .slick-current .robot-img-slide img{width:100%;height:auto;}
+.robot-desc-slider{margin:40% auto 0 auto;}
+.robot-desc-slide{background-size:100% 100%;padding:77px 70px 0 80px;margin:0 auto;width:100%;}
+.robots_slider-arrows{margin:0 0 0px 0px;padding:0px 3px 3px 0px;border-radius:4px 0px 4px 0;float:left;}
+.robots_arrow{border-radius:3px 0 0 0;}
+.robots_arrow-next{border-radius:0 0px 3px 0;}
+#robots h2::before{margin:150px 0 0 -30px;width:400px;height:400px;}
+#robots{padding:0 0 190px 0;}
+.school_description-img{margin:0 0 0 200px;}
+.school_description-content{width:480px;height:460px;padding:95px 55px 0 70px;background-size:100% 100%;margin:-67px auto 0 auto;}
+.school_description-content::before{margin:-20px 0 0 0;}
+.school_contents-item:nth-child(3){margin:25px 0 0 0px;}
+.school_contents-item:nth-child(6){margin:25px 0 0 0px;justify-content:flex-end;}
+.school_contents-item:nth-child(7){margin:25px 0 0 0px;}
+.excursion_img img{margin:0 auto;}
+.excursion_img{width:100%;}
+.excursion_text{background-size:100% 100%;padding:85px 60px 0 64px;width:520px;}
+.excursion_content{margin:-140px 0px 0 0;}
+.excursion_text:nth-child(2n){margin-left:0px;}
+#birthday{padding:0 0 230px 0;}
+#birthday h2{margin:60px 0 0 0px;}
+.birthday_bg-img{width:100%;}
+.lightning img:nth-child(1){margin:230px 0 0 50px;}
+.lightning img:nth-child(6){margin:60px 0 0 380px;}
+.lightning img:nth-child(2), .lightning img:nth-child(4){display:none;}
+.lightning img:nth-child(3){margin:1470px 0 0 250px;}
+.lightning img:nth-child(8){margin:790px 0 0 60%;}
+.robot-img{margin:148px 0 0 60%;}
+.flying-robots .layer{width:100%;}
+.flying-robot3{margin:740px 0 0 10%;}
+.flying-robot2{margin:860px 0 0 85%;}
+.flying-robot1{margin:1480px 0 0 10%;}
+.flying-robot4{margin:1480px 0 0 80%;}
+.birthday_contents-block:last-child::before{width:530px;height:530px;}
+.birthday_contents-block:first-child::before{margin:-65px 0 0 -60px;width:600px;height:600px;}
+.birthday_contents-block:last-child .birthday_contents-block-img,
+.birthday_contents-block:first-child .birthday_contents-block-img{width:470px;height:auto;margin:0 auto;}
+.birthday_contents-block:first-child .birthday_contents-block-img{margin:-85px auto 0 auto;}
+.birthday_contents-block:last-child .birthday_contents-block-text{margin:-65px 0 0 0px;justify-content:center;}
+.birthday_contents-block:first-child .birthday_contents-block-text{margin:0 0 0 0px;justify-content:center;}
+.birthday_info h3{font-size:26px;line-height:42px;}
+.birthday_info{background-size:100% 100%;margin:190px auto 0 auto;width:500px;padding:73px 40px 0 58px;}
+.birthday_contacts-text{line-height:22px;font-size:14px;margin:0 10px 0 0;width:187px;}
+.birthday_contacts-tel div:first-child{margin:0 11px 0 0;}
+.birthday_contacts-tel a{font-size:22px;}
+.birthday_contacts-tel a span{font-size:16px;}
+.discount{margin:20px 0 88px 0px;}
+.discount_text{background-size:100% 100%;margin:0 auto;line-height:42px;font-size:28px;}
+.tickets{margin:0 0 0 -50px;}
+.ticket:last-child{margin:-35px 0 0 90px;}
+.benefit{background-size:100% 100%;line-height:42px;font-size:28px;width:480px;padding:70px 50px 0 50px;}
+#contacts{padding:0 0 80px 0;}
+.map{width:110%;}
+#form-modal{width:430px;padding:32px 20px 75px 20px;}
+.form-heading{flex-direction:column;align-items:flex-start;}
+.form-announcement{margin:30px 0 0 0px;align-self:center;}
+.input-block:first-child, .input-block:nth-child(2){float:none;}
+.input-block, .input-section div:last-child{width:270px;margin:0 auto;}
+.legal{justify-content:center;}
+#agreement-modal{width:100%;}
+}
+@media screen and (max-width:479px){.container{padding-right:5px;padding-left:5px;}
+.hamburger-icon{margin:0 0 0 30px;}
+.heading_contacts-info a{font-family:'PFHandbookPro-Regular';font-size:20px;}
+.heading_contacts-info a span{font-size:14px;}
+.heading_contacts-pic{display:none;}
+h1{width:100%;width:100%;font-size:23px;}
+.header-circles div:last-child{margin:220px 0 0 -150px;}
+#exhibition h2{font-size:34px;width:100%;text-align:center;}
+.exhibition_text{width:340px;height:650px;padding:130px 45px 0 60px;}
+.exhibition_text__bottom{height:700px;}
+#robots{padding:0 0 250px 0;}
+#robots h2{margin:70px 0 53px 0px;font-size:34px;line-height:41px;width:100%;text-align:center;}
+.robot-desc-slide h3{font-size:28px;line-height:33px;}
+.robot-desc{font-size:14px;}
+.robot-img-slider.slick-slider{width:92% !important;}
+.robot-img-slide{width:100% !important;}
+.robot-desc-slide{padding:77px 55px 0 55px;text-align:center;}
+.robot-desc-slide-six, .robot-desc-slide-five{height:320px;margin:-25px 0 0 0px;padding:82px 54px 0 55px;}
+.school_heading{margin:50px 0 0 0;}
+#school h2{font-size:34px;line-height:41px;}
+.school_heading-img{display:none;}
+.school_description-img{margin:30px 0 0 130px;}
+.school_description-content{margin:-84px auto 0 auto;width:335px;height:660px;padding:130px 40px 0 50px;}
+.school_contents-text{font-size:18px;}
+.school_contents-number, .school_contents-number__five, .school_contents-number__six, .school_contents-number__one, .school_contents-number__three{font-size:45px;margin:0 9px 0 0;}
+.school_big-circle{width:80px;height:80px;border:8px solid #bed62f;}
+.school_big-circle__one, .school_big-circle__three{width:100px;height:100px;}
+.school_big-circle__five, .school_big-circle__six{width:65px;height:65px;border:7px solid #bed62f;}
+.school_big-circle__one, .school_big-circle__three{border:10px solid #bed62f;}
+.school_content-conection{margin:0 18px 0 -50px;}
+.school_content-conection__one, .school_content-conection__three{margin:0 23px 0 -60px;}
+.school_content-conection__five, .school_content-conection__six{margin:0 18px 0 -43px;}
+.school_middle-circle, .school_middle-circle__five, .school_middle-circle__six, .school_middle-circle__one, .school_middle-circle__three{width:20px;height:20px;}
+.school_circle-line, .school_circle-line__five, .school_circle-line__six, .school_circle-line__one, .school_circle-line__three{width:53px;margin:0 0 0 -5px;}
+.school_contents-text, .school_contents-item:nth-child(4) .school_contents-text, .school_contents-item:nth-child(6) .school_contents-text{width:40%;font-size:17px;line-height:20px;}
+#classes h2, #excursion h2{font-size:34px;line-height:41px;width:100%;text-align:center;}
+.class{width:310px;padding:24px 14px 35px 70px;}
+.class-three::before, .class-two::before{margin:-60px 0 0 170px;}
+#excursion h2{margin:50px 0px 0 auto;}
+.excursion_text, .excursion_text:nth-child(3){padding:85px 45px 0 45px;width:360px;font-size:17px;line-height:24px;}
+#birthday h2{font-size:34px;line-height:41px;width:280px;}
+.birthday_contents-block:last-child::before, .birthday_contents-block:first-child::before{width:360px;height:360px;border:40px solid #bed62f;}
+.birthday_contents-block:first-child::before{margin:0px 0 0 -20px;}
+.birthday_contents-block:last-child::before{margin:-51px 0 0 -5px;}
+.birthday_contents-block:last-child .birthday_contents-block-img, .birthday_contents-block:first-child .birthday_contents-block-img{width:310px;}
+.lightning img:nth-child(1){margin:200px 0 0 50px;}
+.lightning img:nth-child(8){display:none;}
+.lightning img:nth-child(3){margin:1140px 0 0 130px;}
+.lightning img:nth-child(6){margin:60px 0 0 280px;}
+.flying-robot3{margin:560px 0 0 3%;width:60px;}
+.flying-robot2{margin:580px 0 0 80%;}
+.flying-robot1{margin:920px 0 0 5%;}
+.flying-robot4{margin:915px 0 0 73%;}
+.birthday_contents-item, .birthday_contents-block:first-child .birthday_contents-item:first-child{font-size:18px;line-height:24px;width:210px;padding:53px 70px 0 50px;background-size:100% 100%;}
+.birthday_contents-block:first-child .birthday_contents-item:first-child{padding:63px 70px 0 50px;}
+.birthday_info{width:340px;padding:70px 32px 0 40px;margin:30px auto 0 auto;}
+.birthday_info h3{font-size:23px;line-height:28px;text-align:center;width:200px;margin:0 auto;}
+.birthday_contacts-tel div:first-child{margin:0 8px 0 0;width:25px;height:25px;padding:0px 0 0px 0;}
+.birthday_contacts-tel div:first-child img{width:12px;margin:0 0 2px 0;}
+.birthday_contacts-tel a{line-height:20px;font-size:21px;width:95px;}
+.birthday_contacts-text{line-height:18px;font-size:13px;margin:0 1px 0 0;}
+.birthday_contacts{margin:12px 0 0 0;width:260px;}
+.birthday_contents-block:last-child{margin:-210px 0 30px 0;}
+.birthday_contents{margin:310px 0 0 0;}
+.robot-img{margin:150px 0 0 55%;}
+#prices h2{margin:50px 0px 0 0;font-size:34px;line-height:41px;text-align:center;}
+.discount{margin:0px auto 8px auto;width:350px;}
+.discount_text{width:350px;padding:73px 40px 0 40px;margin:0 0 0 -30px;}
+.ticket{flex-direction:column-reverse;}
+.ticket:last-child .ticket_info{flex-direction:row-reverse;margin:50px 0 0 0;}
+.ticket:last-child .ticket_name{padding:55px 0 0 80px;margin:0 0 0 -75px;}
+.ticket:last-child .ticket_price{margin:10px 0 0 -100px;}
+.ticket:last-child .ticket_new-price{margin:-50px 0 0 20px;}
+.tickets_block__second{margin:30px 0 0 0;}
+.benefit{line-height:30px;font-size:25px;width:340px;padding:75px 40px 0 40px;height:300px;margin:-20px auto 0 auto;}
+#contacts h2{margin:55px 0 50px 0px;text-align:center;}
+.contacts_info{background-size:100% 100%;width:380px;height:580px;flex-direction:column;padding:133px 0 0 55px;margin:-95px 0 0 0px;}
+.contacts_icon{margin:0 15px 0 0;}
+.contacts_text{width:230px;}
+.socials{margin:30px 60px 0px 0;align-self:flex-end;}
+.contacts_robot{margin:0px 0 0 -100px;}
+.copyright{font-size:13px;}
+.form-modal-robot{display:none;}
+#form-modal{width:310px;margin:0 0 0 -19px;margin:0 auto;width:97%;}
+.arcticmodal-container_i2{padding:5px;}
+.birthday_contacts-tel a span{margin:0 20px 0 0;}
+#thx{width:320px;margin-left:-160px;}
+}
